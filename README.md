@@ -59,11 +59,11 @@
 
 | 🚀 Project                     | 📝 Description                                                      | 🔗 Link           |
 | ----------------------------- | ------------------------------------------------------------------ | ---------------- |
-| Library Management System     | Flask & MySQL app tracking books, members, and loans               | [Repo](#)        |
-| Task Management Tool          | Kanban board with user auth (Node.js, Express & MongoDB)           | [Repo](#)        |
-| E-Commerce Site               | Full-stack shopping platform (React, Node.js & MongoDB)            | [Repo](#)        |
-| MyPortfolio                   | Personal site showcasing work (HTML, CSS, JS)                      | [Live](#)        |
-| UniConnect                    | Final-year BTP: Campus portal for resources, issue reporting & polls | [Repo](#)      |
+| **Library Management System** | Flask & MySQL app tracking books, members, and loans               | [Repo](#)        |
+| **Task Management Tool**      | Kanban board with user auth (Node.js, Express & MongoDB)           | [Repo](#)        |
+| **E-Commerce Site**           | Full-stack shopping platform (React, Node.js & MongoDB)            | [Repo](#)        |
+| **MyPortfolio**               | Personal site showcasing work (HTML, CSS, JS)                      | [Live](#)        |
+| **UniConnect**                | Final-year BTP: Campus portal for resources, issue reporting & polls | [Repo](#)      |
 
 ---
 
@@ -71,10 +71,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nagamanikanta1210" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:po@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/green_1210" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
