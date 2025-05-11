@@ -1,6 +1,6 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<nagamanikanta1210>/<nagamanikanta1210>/main/assets/banner.png" alt="banner" width="100%" />
+  <img src="https://github.com/nagamanikanta1210/nagamanikanta1210/blob/main/assets/banner.png" alt="banner" width="100%" />
 </p>
 
 <!-- ====== HEADER ====== -->
