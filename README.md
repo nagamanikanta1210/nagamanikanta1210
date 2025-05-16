@@ -5,7 +5,7 @@
 
 <!-- ====== HEADER ====== -->
 <h1 align="center">👋 Hi, I’m Nagamanikanta Nallaganchu</h1>
-<h3 align="center">4th-Yr B.Tech CSE (AI) ’26 @ Parul University | Aspiring Data Analyst & MERN-Stack Dev</h3>
+<h3 align="center">Fullstack Developer || Aspiring Data Analyst || Prompt Engineer</h3>
 
 <!-- ====== TYPING HIGHLIGHT ====== -->
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 - 🎓 **Parul University**, Vadodara, Gujarat (Class of 2026)  
-- 🧠 Aspiring **Data Analyst** & **Full-Stack Developer** (MERN)  
+- 🧠**Full-Stack Developer** (MERN), Aspiring **Data Analyst** & **Prompt Engineer**
 - 🌱 Passionate about data insights, clean code, and scalable architectures  
 - 🌐 Languages: Telugu • English • Hindi  
-- ✨ Fun Fact: I like to listen Music when debugging!
+- ✨ Fun Fact: My Social name is Green!
 
 ---
 
