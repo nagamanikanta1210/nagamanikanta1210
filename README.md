@@ -5,7 +5,7 @@
 
 <!-- ====== HEADER ====== -->
 <h1 align="center">👋 Hi, I’m Nagamanikanta Nallaganchu</h1>
-<h3 align="center">Fullstack Developer || Aspiring Data Analyst || Prompt Engineer</h3>
+<h3 align="center">Fullstack Developer || AI/ML Enthusiast || Prompt Engineer || Aspiring Data Analyst </h3>
 
 <!-- ====== TYPING HIGHLIGHT ====== -->
 <p align="center">
