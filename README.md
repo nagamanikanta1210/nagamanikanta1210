@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 - 🎓 **Parul University**, Vadodara, Gujarat (Class of 2026)  
-- 🧠**Full-Stack Developer** (MERN), Aspiring **Data Analyst** & **Prompt Engineer**
+- 🧠**Full-Stack Developer** (MERN), ** AI/ML Enthusiast**, **Prompt Engineer** & Aspiring **Data Analyst**
 - 🌱 Passionate about data insights, clean code, and scalable architectures  
 - 🌐 Languages: Telugu • English • Hindi  
 - ✨ Fun Fact: My Social name is Green!
